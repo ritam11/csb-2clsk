@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ritam11.github.io/csb-2clsk/static/css/main.b1ed82e3.chunk.css",
+    "main.js": "https://ritam11.github.io/csb-2clsk/static/js/main.798fe61e.chunk.js",
+    "main.js.map": "https://ritam11.github.io/csb-2clsk/static/js/main.798fe61e.chunk.js.map",
+    "runtime-main.js": "https://ritam11.github.io/csb-2clsk/static/js/runtime-main.42811787.js",
+    "runtime-main.js.map": "https://ritam11.github.io/csb-2clsk/static/js/runtime-main.42811787.js.map",
+    "static/js/2.8d639a0e.chunk.js": "https://ritam11.github.io/csb-2clsk/static/js/2.8d639a0e.chunk.js",
+    "static/js/2.8d639a0e.chunk.js.map": "https://ritam11.github.io/csb-2clsk/static/js/2.8d639a0e.chunk.js.map",
+    "index.html": "https://ritam11.github.io/csb-2clsk/index.html",
+    "static/css/main.b1ed82e3.chunk.css.map": "https://ritam11.github.io/csb-2clsk/static/css/main.b1ed82e3.chunk.css.map",
+    "static/js/2.8d639a0e.chunk.js.LICENSE.txt": "https://ritam11.github.io/csb-2clsk/static/js/2.8d639a0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42811787.js",
+    "static/js/2.8d639a0e.chunk.js",
+    "static/css/main.b1ed82e3.chunk.css",
+    "static/js/main.798fe61e.chunk.js"
+  ]
+}
